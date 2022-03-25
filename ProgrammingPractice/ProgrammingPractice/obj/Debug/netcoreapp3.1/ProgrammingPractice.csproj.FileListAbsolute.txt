@@ -1,0 +1,14 @@
+C:\Users\M S I\source\repos\ProgrammingPractice\ProgrammingPractice\bin\Debug\netcoreapp3.1\ProgrammingPractice.exe
+C:\Users\M S I\source\repos\ProgrammingPractice\ProgrammingPractice\bin\Debug\netcoreapp3.1\ProgrammingPractice.deps.json
+C:\Users\M S I\source\repos\ProgrammingPractice\ProgrammingPractice\bin\Debug\netcoreapp3.1\ProgrammingPractice.runtimeconfig.json
+C:\Users\M S I\source\repos\ProgrammingPractice\ProgrammingPractice\bin\Debug\netcoreapp3.1\ProgrammingPractice.runtimeconfig.dev.json
+C:\Users\M S I\source\repos\ProgrammingPractice\ProgrammingPractice\bin\Debug\netcoreapp3.1\ProgrammingPractice.dll
+C:\Users\M S I\source\repos\ProgrammingPractice\ProgrammingPractice\bin\Debug\netcoreapp3.1\ProgrammingPractice.pdb
+C:\Users\M S I\source\repos\ProgrammingPractice\ProgrammingPractice\obj\Debug\netcoreapp3.1\ProgrammingPractice.csproj.AssemblyReference.cache
+C:\Users\M S I\source\repos\ProgrammingPractice\ProgrammingPractice\obj\Debug\netcoreapp3.1\ProgrammingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M S I\source\repos\ProgrammingPractice\ProgrammingPractice\obj\Debug\netcoreapp3.1\ProgrammingPractice.AssemblyInfoInputs.cache
+C:\Users\M S I\source\repos\ProgrammingPractice\ProgrammingPractice\obj\Debug\netcoreapp3.1\ProgrammingPractice.AssemblyInfo.cs
+C:\Users\M S I\source\repos\ProgrammingPractice\ProgrammingPractice\obj\Debug\netcoreapp3.1\ProgrammingPractice.csproj.CoreCompileInputs.cache
+C:\Users\M S I\source\repos\ProgrammingPractice\ProgrammingPractice\obj\Debug\netcoreapp3.1\ProgrammingPractice.dll
+C:\Users\M S I\source\repos\ProgrammingPractice\ProgrammingPractice\obj\Debug\netcoreapp3.1\ProgrammingPractice.pdb
+C:\Users\M S I\source\repos\ProgrammingPractice\ProgrammingPractice\obj\Debug\netcoreapp3.1\ProgrammingPractice.genruntimeconfig.cache
